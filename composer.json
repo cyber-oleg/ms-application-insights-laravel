@@ -16,7 +16,7 @@
         "illuminate/config": "~5.0",
         "illuminate/support": "~5.0",
         "laravel/framework": "~5.0",
-        "microsoft/application-insights": "dev-bugfix"
+        "microsoft/application-insights": "^dev-bugfix"
     },
     "autoload": {
         "psr-4": {
